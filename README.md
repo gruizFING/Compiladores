@@ -1,2 +1,2 @@
-# Dise-oCompiladores
+# Compiladores
 Curso de Diseño de Compiladores
